@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-
+<body>
 <head>
 <title>Personal Profile</title>
 </head>
